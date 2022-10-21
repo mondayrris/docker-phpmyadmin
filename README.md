@@ -34,3 +34,11 @@ WARNING: The requested image's platform (linux/amd64) does not match the detecte
 - navigate [http://localhost:8080](http://localhost:8080)
   - username: root
   - password: root
+
+## Cannot connect mysql via PHP
+
+Change `localhost` to `127.0.0.1`
+
+```
+database.default.hostname=127.0.0.1
+```
