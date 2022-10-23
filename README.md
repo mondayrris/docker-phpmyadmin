@@ -1,5 +1,5 @@
 # docker-phpmyadmin
-A documentation on installing phpmyadmin via docker (Mac only)
+A documentation on installing phpmyadmin via docker (Mac M1 only)
 
 ## Install Docker
 - [Register a new account](https://hub.docker.com/signup) or [Signin an existing account](https://login.docker.com/u/login/identifier?state=hKFo2SBoSDBFNUxTSlVuelF4R2E5WlFWaUVWcGtHMVo4SUdpLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGgwTzM0VTQ5NGExUXhid196MUcyUVJJbHRRSDhURVlPo2NpZNkgbHZlOUdHbDhKdFNVcm5lUTFFVnVDMGxiakhkaTluYjk)
